@@ -1,0 +1,15 @@
+- Visualize the predictions for each mouse when you just use the linear model
+
+Tomorrow:
+	MS edits + prep for meeting
+	Get simulation running
+		-program exception for no-missing-cases
+	Read a paper + slide outlines
+Tuesday:
+	Understand LEFSE
+	Make slides explaining offline transfer RL
+	paper slide edits
+	
+Wednesday:
+	
+	
